@@ -1,0 +1,16 @@
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\obj\Debug\net5.0\address-book.csproj.AssemblyReference.cache
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\obj\Debug\net5.0\address-book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\obj\Debug\net5.0\address-book.AssemblyInfoInputs.cache
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\obj\Debug\net5.0\address-book.AssemblyInfo.cs
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\obj\Debug\net5.0\address-book.csproj.CoreCompileInputs.cache
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\bin\Debug\net5.0\address-book.exe
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\bin\Debug\net5.0\address-book.deps.json
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\bin\Debug\net5.0\address-book.runtimeconfig.json
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\bin\Debug\net5.0\address-book.runtimeconfig.dev.json
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\bin\Debug\net5.0\address-book.dll
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\bin\Debug\net5.0\ref\address-book.dll
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\bin\Debug\net5.0\address-book.pdb
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\obj\Debug\net5.0\address-book.dll
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\obj\Debug\net5.0\ref\address-book.dll
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\obj\Debug\net5.0\address-book.pdb
+C:\Users\jtwym\workspace\back-end\book-1\address-book\address-book\obj\Debug\net5.0\address-book.genruntimeconfig.cache
