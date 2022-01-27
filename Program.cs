@@ -28,11 +28,22 @@ namespace address_book
 
            public class AddressBook
   {
+         //this creates a dictionary object named _contactList and inside, it has string as a type of key and Contact object as a value
     private Dictionary<string, Contact> _contactList { get; set; } = new Dictionary<string, Contact>();
-
+        //this is a method or function that runs when a information is added to the addressbook class and this method adds an e-mail as a value and personObject as a value and this is one way of doing it.
     public void AddContact(Contact person)
     {
-      _contactList[person.Email] = person;
+        try
+        {
+    //   _contactList[person.Email] = person; - this code also works
+      _contactList.Add(person.Email, person);
+        }
+        catch (ArgumentException)
+        {   
+            Console.WriteLine("-------------------");
+            Console.WriteLine($"{person.FirstName} has already been added to address book");
+            Console.WriteLine("");
+        }
     }
 
     public Contact GetByEmail(string email)
@@ -102,10 +113,11 @@ namespace address_book
             Console.WriteLine($"Email: {contact.Email}");
             Console.WriteLine($"Address: {contact.Address}");
             }
-            catch (KeyNotFoundException ex)
+            catch (KeyNotFoundException)
             {
                 Console.WriteLine("----------------------------");
                 Console.WriteLine($"{email} Not found in address book");
+
             }
         }
     }
